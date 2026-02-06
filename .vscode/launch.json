@@ -4,6 +4,7 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
+        
 
         {
             "name": "kdk_ticketautomat",
@@ -15,26 +16,6 @@
             "request": "launch",
             "type": "dart",
             "flutterMode": "profile"
-        },
-        {
-            "name": "kdk_ticketautomat (release mode)",
-            "request": "launch",
-            "type": "dart",
-            "flutterMode": "release"
-        },
-        {
-            "name": "Ticketautomat - Tablet (debug mode)",
-            "request": "launch",
-            "type": "dart",
-            "flutterMode": "debug",
-            "toolArgs": ["-d", "emulator-5554"]
-        },
-        {
-            "name": "Ticketautomat - Phone (debug mode)",
-            "request": "launch",
-            "type": "dart",
-            "flutterMode": "debug",
-            "toolArgs": ["-d", "emulator-5556"]
         }
 
     ]
