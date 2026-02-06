@@ -3,6 +3,8 @@
 #
 
 list(APPEND FLUTTER_PLUGIN_LIST
+  charset_converter
+  flutter_blue_plus_winrt
   print_bluetooth_thermal
 )
 
